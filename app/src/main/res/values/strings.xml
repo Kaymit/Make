@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Make</string>
+    <string name="loading">loading - please wait</string>
+    <string name="title_activity_email_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_project">ProjectActivity</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="title_activity_basic">BasicActivity</string>
+    <string name="login_before_submitting">Please Login or Sign Up before submitting a project</string>
+    <string name="logout">Logout</string>
+    <string name="logged_in">Logged In: </string>
+    <string name="login_or_sign_up">Login or Sign Up</string>
+    <string name="logged_out">Logged out</string>
+    <string name="category_added">Category added</string>
+    <string name="too_many_categories">Too many categories, bro!</string>
+    <string name="complete_using">Complete action using</string>
+    <string name="project_submitted">Project submitted</string>
+    <string name="login_success">Login Success</string>
+    <string name="login_failed">Login Authentication failed</string>
+    <string name="verification_sent">Verification email sent to</string>
+    <string name="failed_verification_send">Failed to send verification email.</string>
+    <string name="please_upload_picture">Please upload a picture</string>
+</resources>
